@@ -1,0 +1,8 @@
+I learned that a singly linked list is a list where each 
+'node' points to the next piece of data in the list.
+a doubly linked list is a linked list where each node points not on
+ly to the next node in the list but also to the previous piece of data as well
+the only way to traverse a linked list is to utilize a while loop
+given that each node is nested in the last is is not possible to 
+use a traditional 'for' loop to traverse a linked list.
+you must us a current node indicator and a while loop
